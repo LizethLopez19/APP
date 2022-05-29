@@ -1,0 +1,25 @@
+html{background-color: rgb(33, 33, 33);}
+h1{
+    font-family:'Lucida Sans';
+    color: white;
+    margin-top:150px;
+    font-size: 90px;
+}
+table{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+nav{
+    margin-left: 1350px;
+    margin-top: 20px;
+}
+div{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+footer{
+    margin-left: 620px;
+    margin-top: 210px;
+}
+

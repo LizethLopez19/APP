@@ -1,0 +1,16 @@
+*{margin: 0;padding: 0;}
+html{
+background-color: #adf4e0;
+margin-top: 35px;
+}
+.magen{
+    width:400px;
+    height:400px;
+    border-radius:0%;
+} 
+p{    
+    margin-left: 150px;
+    margin-right: 150px;
+    font-size:30px; 
+    font-family:Franklin Gothic Book;
+}

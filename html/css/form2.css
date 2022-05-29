@@ -1,0 +1,27 @@
+html{background-color: rgb(100, 0, 55);}
+form{
+  /* Centrar el formulario en la página */    /* Esquema del formulario */
+  margin: 0 auto;
+  width: 600px;
+  padding: 1em;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 1em;
+  margin-top:20px;
+}
+main{
+  margin: 0 auto;
+  width: 600px;
+  padding: 1em;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 1em;
+  background-color: rgb(181, 186, 159);
+  width: 700px; 
+  height: 550px;
+  margin-top:50px;
+}
+input,
+textarea {
+  font: 1em sans-serif;
+  box-sizing: border-box;
+  border: 1px solid #999;
+}
